@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.9e7f5e5c.css",
-    "main.js": "/static/js/main.91c1d830.js",
+    "main.css": "/static/css/main.6477639a.css",
+    "main.js": "/static/js/main.d81b62cd.js",
     "static/media/pay_systems.png": "/static/media/pay_systems.0049e1df801d45cd1387.png",
+    "static/media/logo.png": "/static/media/logo.4bec44883f6a24cb9487.png",
     "static/media/logo_footer.png": "/static/media/logo_footer.4bec44883f6a24cb9487.png",
-    "static/media/logo.png": "/static/media/logo.763ab2c9bf8f8de9e2de.png",
     "static/media/empty-cart.svg": "/static/media/empty-cart.8908d0c44bf38db7be3fc2e2ae8314cd.svg",
     "static/media/user-hovered.svg": "/static/media/user-hovered.5fd434b3b7be7b3b37a2.svg",
     "static/media/user.svg": "/static/media/user.112b0ee06a9d04221385.svg",
@@ -19,11 +19,11 @@
     "static/media/close-cross.svg": "/static/media/close-cross.a413bae4e22e7f5a4bdd.svg",
     "static/media/tick.svg": "/static/media/tick.c8816c86bf76c7ce0a56.svg",
     "index.html": "/index.html",
-    "main.9e7f5e5c.css.map": "/static/css/main.9e7f5e5c.css.map",
-    "main.91c1d830.js.map": "/static/js/main.91c1d830.js.map"
+    "main.6477639a.css.map": "/static/css/main.6477639a.css.map",
+    "main.d81b62cd.js.map": "/static/js/main.d81b62cd.js.map"
   },
   "entrypoints": [
-    "static/css/main.9e7f5e5c.css",
-    "static/js/main.91c1d830.js"
+    "static/css/main.6477639a.css",
+    "static/js/main.d81b62cd.js"
   ]
 }
