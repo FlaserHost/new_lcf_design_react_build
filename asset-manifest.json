@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.6477639a.css",
-    "main.js": "/static/js/main.d81b62cd.js",
+    "main.css": "/static/css/main.41b76b78.css",
+    "main.js": "/static/js/main.8d62f6a8.js",
     "static/media/pay_systems.png": "/static/media/pay_systems.0049e1df801d45cd1387.png",
     "static/media/logo.png": "/static/media/logo.4bec44883f6a24cb9487.png",
     "static/media/logo_footer.png": "/static/media/logo_footer.4bec44883f6a24cb9487.png",
@@ -19,11 +19,11 @@
     "static/media/close-cross.svg": "/static/media/close-cross.a413bae4e22e7f5a4bdd.svg",
     "static/media/tick.svg": "/static/media/tick.c8816c86bf76c7ce0a56.svg",
     "index.html": "/index.html",
-    "main.6477639a.css.map": "/static/css/main.6477639a.css.map",
-    "main.d81b62cd.js.map": "/static/js/main.d81b62cd.js.map"
+    "main.41b76b78.css.map": "/static/css/main.41b76b78.css.map",
+    "main.8d62f6a8.js.map": "/static/js/main.8d62f6a8.js.map"
   },
   "entrypoints": [
-    "static/css/main.6477639a.css",
-    "static/js/main.d81b62cd.js"
+    "static/css/main.41b76b78.css",
+    "static/js/main.8d62f6a8.js"
   ]
 }
