@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9e7f5e5c.css",
+    "main.js": "/static/js/main.91c1d830.js",
+    "static/media/pay_systems.png": "/static/media/pay_systems.0049e1df801d45cd1387.png",
+    "static/media/logo_footer.png": "/static/media/logo_footer.4bec44883f6a24cb9487.png",
+    "static/media/logo.png": "/static/media/logo.763ab2c9bf8f8de9e2de.png",
+    "static/media/empty-cart.svg": "/static/media/empty-cart.8908d0c44bf38db7be3fc2e2ae8314cd.svg",
+    "static/media/user-hovered.svg": "/static/media/user-hovered.5fd434b3b7be7b3b37a2.svg",
+    "static/media/user.svg": "/static/media/user.112b0ee06a9d04221385.svg",
+    "static/media/cart.svg": "/static/media/cart.5253ee3ff83a4380a8a4.svg",
+    "static/media/trash.svg": "/static/media/trash.b7520852651847105f87.svg",
+    "static/media/trash_hovered.svg": "/static/media/trash_hovered.b28aad42d9c810032279.svg",
+    "static/media/instagram.svg": "/static/media/instagram.cc26a1e0d07107d46e18.svg",
+    "static/media/plus.svg": "/static/media/plus.d6d16760a370cbad3598.svg",
+    "static/media/plus_hovered.svg": "/static/media/plus_hovered.857d381e9974c728d7ba.svg",
+    "static/media/minus.svg": "/static/media/minus.a8c0979e3fd493b8397c.svg",
+    "static/media/minus_hovered.svg": "/static/media/minus_hovered.dc36b25cc11e193b2d44.svg",
+    "static/media/close-cross.svg": "/static/media/close-cross.a413bae4e22e7f5a4bdd.svg",
+    "static/media/tick.svg": "/static/media/tick.c8816c86bf76c7ce0a56.svg",
+    "index.html": "/index.html",
+    "main.9e7f5e5c.css.map": "/static/css/main.9e7f5e5c.css.map",
+    "main.91c1d830.js.map": "/static/js/main.91c1d830.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e7f5e5c.css",
+    "static/js/main.91c1d830.js"
+  ]
+}
